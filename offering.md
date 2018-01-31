@@ -1,5 +1,21 @@
 # Offering
 
+# 9 things
+
+
+1. Universal applications, (desktop, mobile and web) developed with modern yet mature technology (Lewis)
+2. A pragmatic but proven approach to software delivery (Lewis)
+3. A customer focus on software product development  (Lewis)
+4.
+5.
+6.
+7.
+8.
+9.
+
+
+## Old notes
+
 - Web applications, web sites mobile applications.
 - Full stack development
 - Agile practice 
