@@ -3,9 +3,9 @@
 # 9 things
 
 
-1. Universal applications, (desktop, mobile and web) developed with modern yet mature technology (Lewis)
-2. A pragmatic but proven approach to software delivery (Lewis)
-3. A customer focus on software product development  (Lewis)
+1. The creation of universal applications (desktop, mobile and web) built with modern, mature technology (Lewis)
+2. A pragmatic, proven approach to leading software delivery teams (Lewis)
+3. A customer focus on software product development (Lewis)
 4.
 5.
 6.
